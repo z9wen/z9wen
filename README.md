@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 </h1>
 
 
+- 🎓 I‘m a student of master of it.
 - 🌱 I’m currently learning in the University of New South Wales
 - 📕 Here's my blog: [Blog](https://www.zew9.com)
 - 📫 How to reach me: z9wen@hotmail.com
+
+##### OS
+[![](https://img.shields.io/badge/macos%20-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/windows%20-010203?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/)
+
+##### Programming language
+![C/C++](https://img.shields.io/badge/-c/c++-%232c3e50?style=flat-square&logo=c)
+![](https://img.shields.io/badge/-Python-green.svg?style=flat-square&logo=python&logoColor=ffffff)
+
+
