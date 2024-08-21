@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-- 🎓 I‘m a student of master of it.
+- 🎓 I‘m a student of master of IT.
 - 🌱 I’m currently learning in the University of New South Wales
 - 📕 Here's my blog: [Blog](https://www.zew9.com)
 - 📫 How to reach me: z9wen@hotmail.com
