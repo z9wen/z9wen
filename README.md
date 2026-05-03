@@ -1,6 +1,6 @@
-<p align="center">
-  UNSW MIT Graduate · AWS Certified DevOps Engineer – Professional · AWS Certified Solutions Architect – Associate
-</p>
+<!--
+**z9wen/z9wen** is a special repository because its README.md appears on your GitHub profile.
+-->
 
 ## 👋 About Me
 
@@ -37,6 +37,12 @@ Since then, I have mainly used Debian, from Debian 9 to Debian 13.
 
 I enjoy working with Linux systems, command-line tools, Docker, and automation.
 
+## 🛠 Personal Infrastructure & Operations
+
+I maintain around 10 personal websites and small services, including blogs, API endpoints, utility sites, and Cloudflare Workers-based APIs.
+
+My recent work includes migrating a WordPress-based blog to Cloudflare Pages, managing DNS and HTTPS, maintaining ACME-based TLS certificate automation with Google Trust Services, and running Linux servers across different VPS providers for personal deployment and experimentation.
+
 ## 🧩 Project Experience
 
 ### Capstone Project
@@ -44,6 +50,21 @@ I enjoy working with Linux systems, command-line tools, Docker, and automation.
 Served as Backend Lead and DevOps in my capstone project.
 
 Main responsibilities included backend development, deployment workflow support, server-side configuration, and coordination between application development and infrastructure-related tasks.
+
+### Personal Infrastructure Toolkit
+
+[personal-infra-toolkit](https://github.com/z9wen/personal-infra-toolkit)
+
+A personal Linux/VPS operations toolkit for server-side automation, TLS certificate management, Nginx hosting, Fail2Ban, backups, and network tuning.
+
+Highlights:
+
+- Bash-based automation for Linux server operations.
+- ACME/TLS certificate management, including Google Trust Services.
+- Docker Compose setups for Nginx, Fail2Ban, and acme.sh.
+- Rclone-based backup workflow.
+- GitHub Actions workflow for script checking and automation.
+- Used for personal server deployment, experimentation, and infrastructure maintenance.
 
 ## 🛠 Tech Stack
 
