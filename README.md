@@ -1,46 +1,89 @@
-<!--## Hi there 👋
+<p align="center">
+  UNSW MIT Graduate · AWS Certified DevOps Engineer – Professional · AWS Certified Solutions Architect – Associate
+</p>
 
-**z9wen/z9wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
 
-Here are some ideas to get you started:
+- 🎓 Master of Information Technology graduate from the University of New South Wales.
+- ☁️ AWS Certified DevOps Engineer – Professional (DOP-C02).
+- 🏗️ AWS Certified Solutions Architect – Associate (SAA-C03).
+- 🧩 Served as Backend Lead and DevOps in my capstone project.
+- 🐧 Started using Linux in high school, from CentOS 6 and Debian 9.
+- 🖥️ Long-term Linux/VPS user for personal server deployment and experimentation.
+- 🔧 Interested in DevOps, cloud infrastructure, CI/CD, Docker, and Linux systems.
+- 📍 Based in Sydney, Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Certifications
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+will...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+- AWS Certified DevOps Engineer – Professional (DOP-C02)
+- AWS Certified Solutions Architect – Associate (SAA-C03)
 
-- 🎓 I‘m a student of master of IT.
-- 🌱 I’m currently learning in the University of New South Wales
+![AWS DOP](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional%20(DOP--C02)-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate%20(SAA--C03)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
+## ☁️ Cloud Background
 
-##### OS
-[![Macos](https://img.shields.io/badge/macos%20-33aadd?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![Windows](https://img.shields.io/badge/windows%20-010203?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
+My main cloud focus is AWS, supported by AWS Certified DevOps Engineer – Professional and AWS Certified Solutions Architect – Associate certifications.
 
-##### Programming language
-![C/C++](https://img.shields.io/badge/-c/c++-%232c3e50?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+I have also used Azure services such as Virtual Machines, Private DNS, and Azure Database for MySQL, as well as GCP Compute Engine virtual machines.
 
-##### IDE
-<img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50" title="vscode">
+In addition, I have used various VPS providers such as Vultr and Linode for running Linux servers and personal projects.
 
+## 🐧 Linux Background
 
+I started using Linux in high school, beginning with CentOS 6 and Debian 9.
 
+Since then, I have mainly used Debian, from Debian 9 to Debian 13.
 
+I enjoy working with Linux systems, command-line tools, Docker, and automation.
 
+## 🧩 Project Experience
+
+### Capstone Project
+
+Served as Backend Lead and DevOps in my capstone project.
+
+Main responsibilities included backend development, deployment workflow support, server-side configuration, and coordination between application development and infrastructure-related tasks.
+
+## 🛠 Tech Stack
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Programming & Scripting
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### OS & Tools
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+## 🚀 Career Focus
+
+I am currently looking for opportunities in:
+
+- DevOps Engineering
+- Cloud Engineering
+- Platform Engineering
+- Linux / Cloud Operations
+- Site Reliability Engineering
+
+## 📫 Contact
+
+- GitHub: [@z9wen](https://github.com/z9wen)
+- LinkedIn:
+- Email:
