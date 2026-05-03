@@ -41,7 +41,21 @@ I enjoy working with Linux systems, command-line tools, Docker, and automation.
 
 I maintain around 10 personal websites and small services, including blogs, API endpoints, utility sites, and Cloudflare Workers-based APIs.
 
-My recent work includes migrating a WordPress-based blog to Cloudflare Pages, managing DNS and HTTPS, maintaining ACME-based TLS certificate automation with Google Trust Services, and running Linux servers across different VPS providers for personal deployment and experimentation.
+My recent work includes:
+
+- Migrating websites between different hosting environments, including a WordPress-based blog migration to Cloudflare Pages.
+- Rebuilding and maintaining a Next.js-based personal web application.
+- Managing Cloudflare DNS for personal domains and services.
+- Configuring Nginx reverse proxy for personal websites, APIs, and backend services.
+- Managing DNS, HTTPS, and ACME-based TLS certificate automation with Google Trust Services.
+- Using `mysqldump` for MySQL database backup, migration, and restore tasks.
+- Using `cron`, `tar`, and `rclone` for scheduled offsite backups to Microsoft 365 E5 storage.
+- Using UFW for basic port and firewall management.
+- Using Fail2Ban jails for basic server protection and IP banning.
+- Running services with Docker Compose.
+- Using Docker Compose as a lightweight infrastructure configuration approach for self-hosted services.
+- Running Linux servers across different VPS providers for personal deployment and experimentation.
+- Maintaining small API services, utility websites, and Cloudflare Workers-based APIs.
 
 ## 🧩 Project Experience
 
@@ -55,14 +69,17 @@ Main responsibilities included backend development, deployment workflow support,
 
 [personal-infra-toolkit](https://github.com/z9wen/personal-infra-toolkit)
 
-A personal Linux/VPS operations toolkit for server-side automation, TLS certificate management, Nginx hosting, Fail2Ban, backups, and network tuning.
+A personal Linux/VPS operations toolkit for server-side automation, TLS certificate management, Nginx hosting, Fail2Ban, backups, and Docker Compose-based infrastructure configuration.
 
 Highlights:
 
 - Bash-based automation for Linux server operations.
+- Docker Compose-based service definitions for self-hosted infrastructure.
 - ACME/TLS certificate management, including Google Trust Services.
-- Docker Compose setups for Nginx, Fail2Ban, and acme.sh.
-- Rclone-based backup workflow.
+- Nginx reverse proxy and web service configuration.
+- Backup workflow using `cron`, `tar`, and `rclone`.
+- MySQL backup, migration, and restore workflows using `mysqldump`.
+- Basic firewall and server protection workflows with UFW and Fail2Ban.
 - GitHub Actions workflow for script checking and automation.
 - Used for personal server deployment, experimentation, and infrastructure maintenance.
 
@@ -73,8 +90,10 @@ Highlights:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Programming & Scripting
@@ -88,20 +107,22 @@ Highlights:
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-Firewall-4EAA25?style=flat-square&logo=linux&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-Server%20Protection-000000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ## 🚀 Career Focus
 
 I am currently looking for opportunities in:
 
-- DevOps Engineering
-- Cloud Engineering
-- Platform Engineering
+- Junior DevOps Engineer
+- DevOps Engineer
+- Cloud Operations Engineer
 - Linux / Cloud Operations
-- Site Reliability Engineering
+- Infrastructure Support Engineer
 
 ## 📫 Contact
 
