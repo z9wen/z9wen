@@ -6,7 +6,7 @@ I'm most interested in reliable infrastructure for payments and trading: control
 
 ### What I'm building
 
-- **易管楼 (Easy Manage Building)** — a meter-reading and billing SaaS for small landlords, in a closed beta. Go, PostgreSQL and GitHub Actions: each release builds one image, promotes that exact digest through an approval-gated deploy, and rolls back by redeploying an earlier tag. *(Private repository.)*
+- **[易管楼 (Easy Manage Building)](https://github.com/z9wen/easy-manage-building-showcase)** — a meter-reading and billing SaaS for small landlords, in a closed beta. Go, PostgreSQL and GitHub Actions: each release builds one image, promotes that exact digest through an approval-gated deploy, and rolls back by redeploying an earlier tag. *(Source is private; the link goes to the showcase.)*
 - **[VPSentinel](https://github.com/z9wen/VPSentinel)** — a self-hosted monitoring and incident platform for Linux VPS fleets: Go agent and API, PostgreSQL, Grafana alerting, runbooks and postmortems.
 - **Real-time ETF market monitor** — a C++20 dashboard on the Interactive Brokers API with order-flow and VWAP signals and a rate-limit-aware historical backfill. *(Private repository.)*
 - **[personal-infra-toolkit](https://github.com/z9wen/personal-infra-toolkit)** — Bash and Python tools for running Linux servers: Nginx and TLS, backups and restores, and config tests with automatic rollback.
